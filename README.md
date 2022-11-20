@@ -38,4 +38,4 @@ curl -vk --cert-type P12 --cert src/main/resources/client.p12:changeit https://l
 
 -------------------------------------------
 
-Excellent Tutorial that I followed is [here](https://medium.com/ing-tech-romania/a-simple-mtls-guide-for-spring-boot-microservices-c6bfc9878369) - my thanks to the author Mihaita Tinta.
+The excellent tutorial that I followed to learn the above is [here](https://medium.com/ing-tech-romania/a-simple-mtls-guide-for-spring-boot-microservices-c6bfc9878369) - my thanks to the author Mihaita Tinta.

@@ -1,8 +1,6 @@
 mTLS Spring Boot Demo Server
 ====================
 
-![Fun Graphic](docs/rabbit_car.png)
-
 start by creating client and server p12 certs and trust stores by:
 
 ```bash
